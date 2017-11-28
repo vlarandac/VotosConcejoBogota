@@ -16,4 +16,4 @@ Los insights logrados a partir de las visualizaciones son:<br/><br/>
 
 Usted puede acceder para ver los distintos proyectos de la clase en el siguiente link [Proyectos Visual Analytics 2017](http://johnguerra.co/classes/visual_analytics_fall_2017/students/index.html).
 <br/>
-Usted puede acceder al [Sitio del proyecto](https://vlarandac.github.io/VA-AccidentesBogota2016/).
+Usted puede acceder al [Sitio del proyecto](https://vlarandac.github.io/VotosConsejoBogota/).
