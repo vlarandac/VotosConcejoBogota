@@ -1,7 +1,7 @@
 # Votaciones al consejo de Bogotá en los periodos 2011 y 2015
 
 ### Lo que se espera lograr:
-La tarea que se buscan conseguir por medio de esta visualizaciones es:<br/>
+La tarea que se buscan conseguir por medio de esta visualizacion es:<br/>
 ○ Comparar los resultados obtenidos por un candidato frente a otros en los resultados electorales por localidad (zona) para las elecciones al Consejo de Bogotá en los periodos 2011 y 2015.<br/>
 
 Para lograrlo se ha elegido visualizar por medio de paralell coordinates que permite ver el comportamiento para las distintas localidades, así mismo se han implementado filtros que permiten elegir los candidatos que se quieren comparar.  Se puede hacer brush para elegir el eje o la zona a verificar. <br/>
@@ -9,7 +9,7 @@ Esta visualización permitirá a nuestro cliente Diego Laserna comparar visualme
 <br/><br/>
 
 ### Análisis e Insights
-Los insights logrados a partir de las visualizaciones son:<br/><br/>
+Los insights logrados a partir de la visualizacion son:<br/><br/>
 ○ La diferencia de votos entre el consejal elegido del partido verde con mayor cantidad de votos, Antonio Sanguino Páez,  y Diego Laserna es cercana a laso 4500 votos.  <br/> 
 ○ La localidad que presenta mayor cantidad de votos Diego Laserna son las zonas 1 y 2 seguida no tan de cerca por la zona 11, lo cual resulta consistente con el comportamiento global de votos de candidatos de su partido. 
 
@@ -657,7 +657,10 @@ Los insights logrados a partir de las visualizaciones son:<br/><br/>
 </script>
 
 
-Vivian Lucia Aranda<br/>
-201022509<br/>
-ISIS4822 – Visual Analytics - 20172	<br/>		
-Universidad de los Andes, Bogotá, Colombia
+<p align="center" style="font-size: 13px; text-align: center;">
+	      Vivian Lucia Aranda Camacho<br>
+	      Código: 201022509<br>
+	      Universidad de los Andes<br>
+	      Maestría en Ingeniería de Información<br>
+	      Visual Analytics
+	    </p>
