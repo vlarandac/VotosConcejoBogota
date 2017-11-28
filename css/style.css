@@ -1,0 +1,141 @@
+
+body {
+  min-width: 1000px;
+}
+
+.parcoords {
+  display: block;
+}
+
+.parcoords svg,
+.parcoords canvas {
+  font: 10px sans-serif;
+  position: absolute;
+}
+
+.parcoords canvas {
+  opacity: 0.9;
+  pointer-events: none;
+}
+
+.axis .title {
+  font-size: 10px;
+  transform: rotate(-21deg) translate(-5px,-6px);
+  fill: #222;
+}
+
+.axis line,
+.axis path {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 0.5px;
+}
+
+.axis .tick text {
+  fill: #222;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.axis.SampleType .tick text {
+  opacity: 1;
+}
+
+.axis:hover line,
+.axis:hover path,
+.axis.active line,
+.axis.active path {
+  fill: none;
+  stroke: #222;
+  stroke-width: 1px;
+}
+
+.axis:hover .title {
+  font-weight: bold;
+}
+
+.axis:hover .tick text {
+  opacity: 1;
+}
+
+.axis.active .title {
+  font-weight: bold;
+}
+
+.axis.active .tick text {
+  opacity: 1;
+  font-weight: bold;
+}
+
+.brush .extent {
+  fill-opacity: .4;
+  stroke: #fff;
+  stroke-width: 1px;
+}
+
+
+.pcCenterControls {
+  width: 50%;
+  /* border: 3px solid #73AD21; */
+  position: relative;
+  left: 25%;
+  padding: 5px;
+  /*display: block;  */
+} 
+
+.pcCenterGraph {
+  margin: auto;
+  width: 90%;
+  font:14px sans-serif;
+  /* border: 3px solid #73AD21; */
+  padding: 5px;
+  
+  position: relative;
+  display: block;  
+} 
+
+
+option.select,
+select {
+  font-family:sans-serif;
+  font-size:12px; 
+}
+
+label {
+  position:relative; 
+  vertical-align:middle; 
+  width:100px;
+  height:12px;
+  font-family:sans-serif;
+  font-size:12px; 
+  display: inline-block;
+}
+
+div.tooltip {	
+  position: absolute;			
+  text-align: center;			
+  width: 120px;					
+  height: 34px;					
+  padding: 2px;				
+  font: 10px sans-serif;		
+  /* background: lightsteelblue;	*/
+  background: darkgray;
+  border: 0px;		
+  border-radius: 8px;			
+  pointer-events: none;			
+}  
+
+.buttonPC {
+  width: 100px;
+  font-family:sans-serif;
+  font-size:12px; 
+}
+
+.selectPC {
+  width: 350px;
+}
+
+.selectMultiplePC {
+  width: 350px;
+  height: 60px;
+}
