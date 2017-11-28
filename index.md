@@ -1,28 +1,18 @@
-# Accidentalidad en Bogotá en el año 2016 
-
-### Definición de Accidentes de Tránsito
-
-Accidentes de Tránsito: Definiciones de la Ley 769 de 2002 – Código Nacional de Tránsito
-– “Evento generalmente involuntario, generado al menos por un vehículo en movimiento, que causa daños a personas y bienes involucrados en él e igualmente afecta la normal circulación de los vehículos que se movilizan por la vía o vías comprendidas en el lugar o dentro de la zona de influencia del hecho.”
-
-### ¿Qué hay en este Conjunto de Datos?
-
-#### [ACCIDENTES BOGOTÁ 2016](https://www.datos.gov.co/Transporte/2016-ACCIDENTES-DE-TR-NSITO-BOGOT-/79fi-zm8c)
-
-El datasset elegido esta compuesto por 34931 Filas y 38 Columnas que presentan la información de todos los accidentes registrados en la ciudad de Bogotá durante el año 2016.  Se presentan caracterizaciones del tipo de accidente, gravedad, día y hora de ocurrencia, localidad y otros atributos de interes frente a los datos. 
-
-La fecha de carga del dataset fue el 11 de mayo de 2017 y fué la única carga que se hizo.
+# Votaciones al consejo de Bogotá en los periodos 2011 y 2015
 
 ### Lo que se espera lograr:
-○ Comparar los días en los cuales se presentaron más accidentes durante el año 2016 en la ciudad de Bogotá.<br/>
-○ Presentar cuáles fueron las localidades de Bogotá con mayor cantidad de accidentes para los distintos meses del año 2016.
+La tarea que se buscan conseguir por medio de esta visualizaciones es:<br/>
+○ Comparar los resultados obtenidos por un candidato frente a otros en los resultados electorales por localidad (zona) para las elecciones al Consejo de Bogotá en los periodos 2011 y 2015.<br/>
+
+Para lograrlo se ha elegido visualizar por medio de paralell coordinates que permite ver el comportamiento para las distintas localidades, así mismo se han implementado filtros que permiten elegir los candidatos que se quieren comparar.  Se puede hacer brush para elegir el eje o la zona a verificar. <br/>
+Esta visualización permitirá a nuestro cliente Diego Laserna comparar visualmente la cantidad de votos que obtuvo contra otros candidatos de su elección evidenciando facilmente en que localidades fue más fuerte uno u otro, además le da la facilidad de comparar con candidatos del periodo 2011, que siendo el candidato de 2015 es una buena estrategia de comparación. 
 <br/><br/>
-Hipotesis 1: Las localidades con mayor canidad de accidentes son las que mayor población residente tienen.<br/><br/>
-Hipotesis 2: Existen meses del año y días en los cuales se presentan mayor cantidad de accidentes.
 
 ### Análisis e Insights
-         	 
-<!DOCTYPE html>
+Los insights logrados a partir de las visualizaciones son:<br/><br/>
+○ La diferencia de votos entre el consejal elegido del partido verde con mayor cantidad de votos, Antonio Sanguino Páez,  y Diego Laserna es cercana a laso 4500 votos.  <br/> 
+○ La localidad que presenta mayor cantidad de votos Diego Laserna son las zonas 1 y 2 seguida no tan de cerca por la zona 11, lo cual resulta consistente con el comportamiento global de votos de candidatos de su partido. 
+
 <title>Parallel Coordinates - Consejo de Bogotá</title>
 <head>
   <meta charset="utf-8">
@@ -666,14 +656,7 @@ Hipotesis 2: Existen meses del año y días en los cuales se presentan mayor can
 
 </script>
 
-Podemos observar que para el año 2016 existe una clara evidencia de cuáles fueron las localidades con mayor y menor cantidad de accidentes reportados, así vemos que la localidad con menos cantidad de accidentes reportados es la localidad de La Candelaria, la cual presenta por gran diferencia muchos menos accidentes que las demás localidades, y es un comportamiento que se mantiene a lo largo de todo el año.   Así mismo se puede ver que la localidad que mayor cantidad de accidentes reportó fue la localidad de Kennedy, que junto con la localidad de Suba y Engativa reportaron una cifra cercana a los 220 accidentes al iniciar el año, y posteriormente presentaron un incremento más notorio en los meses de mayo y noviembre para Kennedy, y en abril, julio y octubre para Engativa.   
 
-De acuerdo con nuestra gráfica podemos decir que varias de las localidades permanecieron con una cifra entre los 50 y 100 accidentes mensuales a lo largo del año, como es el caso de Tunjuelito, Rafael Uribe Uribe, Santa Fe, San Cristobal, Antonio Nariño y Usme. Y localidades como Fontibón, Puente Aranda y Chapinero fluctúan entre los 100 y 250 accidentes mensuales a lo largo del año. 
-
-De igual manera podemos ver en la siguiente gráfica cómo estuvieron distribuidos los accidentes a los largo del año en toda la ciudad, y al igual que en la gráfica anterior es de notar que hacia el final de año, en los meses de octubre, noviembre y diciembre se presentaron la mayor cantidad de accidentes. 
-
-De acuerdo con la Secretaría Distrital de Planeación en su Boletin 69 de Proyecciones de población por Localidades emitido en diciembre de 2014, las tres localidades con mayor población proyectada para 2016 fueron Suba(1.250.734), Kennedy (1.187.315) y Engativa (873.243), lo cual nos permite validar nuestra hipótesis de que las localidades con mayor población son las que reportan mayor cantidad de accidentes. 
-<br/><br/>
 Vivian Lucia Aranda<br/>
 201022509<br/>
 ISIS4822 – Visual Analytics - 20172	<br/>		
