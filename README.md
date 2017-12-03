@@ -11,7 +11,7 @@ Esta visualización permitirá a nuestro cliente Diego Laserna comparar visualme
 <br/><br/>
 
 Los insights logrados a partir de las visualizaciones son:<br/><br/>
-○ La diferencia de votos entre el consejal elegido del partido verde con mayor cantidad de votos, Antonio Sanguino Páez,  y Diego Laserna es cercana a los 4500 votos.  <br/> 
+○ La diferencia de votos entre el consejal elegido del partido verde con mayor cantidad de votos, Antonio Sanguino Páez,  y Diego Laserna es cercana a los 8500 votos.  <br/> 
 ○ La localidad que presenta mayor cantidad de votos Diego Laserna son las zonas 1 y 2 seguida no tan de cerca por la zona 11, lo cual resulta consistente con el comportamiento global de votos de candidatos de su partido. 
 
 Usted puede acceder para ver los distintos proyectos de la clase en el siguiente link [Proyectos Visual Analytics 2017](http://johnguerra.co/classes/visual_analytics_fall_2017/students/index.html).
