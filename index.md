@@ -15,7 +15,6 @@ Los insights logrados a partir de la visualizacion son:<br/><br/>
 ○ La localidad que presenta mayor cantidad de votos del candidato Diego Laserna, son las zonas 1 y 2 seguida, no tan de cerca por la zona 11, lo cual resulta consistente con el comportamiento global de votos de candidatos de su partido. 
 
 <title>Parallel Coordinates - Concejo de Bogotá</title>
-<head>
   <meta charset="utf-8">
   <link rel="stylesheet" href="css/style.css">
   <script src="js/d3.v4.min.js"></script>
@@ -286,112 +285,112 @@ Los insights logrados a partir de la visualizacion son:<br/><br/>
         type: types["String"],
       },{
         key: "1",
-        description: "Zona 1", 
+        description: "Usaquen", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "2",
-        description: "Zona 2", 
+        description: "Chapinero", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "3",
-        description: "Zona 3", 
+        description: "Santa Fe", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "4",
-        description: "Zona 4", 
+        description: "San Cristóbal", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "5",
-        description: "Zona 5", 
+        description: "Usme", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "6",
-        description: "Zona 6", 
+        description: "Tunjuelito", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "7",
-        description: "Zona 7", 
+        description: "Bosa", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "8",
-        description: "Zona 8", 
+        description: "Kennedy", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "9",
-        description: "Zona 9", 
+        description: "Fontibón", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "10",
-        description: "Zona 10", 
+        description: "Engativá", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "11",
-        description: "Zona 11", 
+        description: "Suba", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "12",
-        description: "Zona 12", 
+        description: "Barrios Unidos", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "13",
-        description: "Zona 13", 
+        description: "Teusaquillo", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "14",
-        description: "Zona 14", 
+        description: "Los Mártires", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "15",
-        description: "Zona 15", 
+        description: "Antonio Nariño", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "16",
-        description: "Zona 16", 
+        description: "Puente Aranda", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "17",
-        description: "Zona 17", 
+        description: "La Candelaria", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "18",
-        description: "Zona 18", 
+        description: "Rafael Uribe Uribe", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "19",
-        description: "Zona 19", 
+        description: "Ciudad Bolivar", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "20",
-        description: "Zona 20", 
+        description: "Sumapaz", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "90",
-        description: "Zona 90", 
+        description: "Corferias", 
         type: types["Number"],
         domain: [0, 10000]
       },{
         key: "98",
-        description: "Zona 98", 
+        description: "Penitenciarias", 
         type: types["Number"],
         domain: [0, 10000]
       },{
@@ -656,7 +655,6 @@ Los insights logrados a partir de la visualizacion son:<br/><br/>
   pcGraph();
 
 </script>
-
 
 <p align="center" style="font-size: 13px; text-align: center;">
 	      Vivian Lucia Aranda Camacho<br>
