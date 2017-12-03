@@ -1,8 +1,8 @@
-# Votaciones al consejo de Bogotá en los periodos 2011 y 2015
+# Votaciones al concejo de Bogotá en los periodos 2011 y 2015
 <br/>
 ### Lo que se espera lograr:
 La tarea que se buscan conseguir por medio de esta visualizacion es:<br/>
-○ Comparar los resultados obtenidos por un candidato frente a otros en los resultados electorales por localidad (zona) para las elecciones al Consejo de Bogotá en los periodos 2011 y 2015.<br/><br/>
+○ Comparar los resultados obtenidos por un candidato frente a otros en los resultados electorales por localidad (zona) para las elecciones al Concejo de Bogotá en los periodos 2011 y 2015.<br/><br/>
 
 Para lograrlo se ha elegido visualizar por medio de paralell coordinates que permite ver el comportamiento para las distintas localidades, así mismo se han implementado filtros que permiten elegir los candidatos que se quieren comparar.  Se puede hacer brush para elegir el eje o la zona a verificar. <br/><br/>
 
@@ -14,7 +14,7 @@ Los insights logrados a partir de la visualizacion son:<br/><br/>
 ○ La diferencia de votos entre el consejal elegido del partido verde con mayor cantidad de votos, Antonio Sanguino Páez,  y Diego Laserna es cercana a los 4500 votos.  <br/> 
 ○ La localidad que presenta mayor cantidad de votos del candidato Diego Laserna, son las zonas 1 y 2 seguida, no tan de cerca por la zona 11, lo cual resulta consistente con el comportamiento global de votos de candidatos de su partido. 
 
-<title>Parallel Coordinates - Consejo de Bogotá</title>
+<title>Parallel Coordinates - Concejo de Bogotá</title>
 <head>
   <meta charset="utf-8">
   <link rel="stylesheet" href="css/style.css">
