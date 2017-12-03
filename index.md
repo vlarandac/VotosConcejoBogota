@@ -1,4 +1,4 @@
-# Votaciones al concejo de Bogotá en los periodos 2011 y 2015
+# Votaciones al Concejo de Bogotá en los periodos 2011 y 2015
 <br/>
 ### Lo que se espera lograr:
 La tarea que se buscan conseguir por medio de esta visualizacion es:<br/>
