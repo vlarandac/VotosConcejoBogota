@@ -11,7 +11,7 @@ Esta visualización permitirá a nuestro cliente Diego Laserna comparar visualme
 
 ### Análisis e Insights
 Los insights logrados a partir de la visualizacion son:<br/><br/>
-○ La diferencia de votos entre el consejal elegido del partido verde con mayor cantidad de votos, Antonio Sanguino Páez,  y Diego Laserna es cercana a los 4500 votos.  <br/> 
+○ La diferencia de votos entre el consejal elegido del partido verde con mayor cantidad de votos, Antonio Sanguino Páez,  y Diego Laserna es cercana a los 8500 votos.  <br/> 
 ○ La localidad que presenta mayor cantidad de votos del candidato Diego Laserna, son las zonas 1 y 2 seguida, no tan de cerca por la zona 11, lo cual resulta consistente con el comportamiento global de votos de candidatos de su partido. 
 
 <title>Parallel Coordinates - Concejo de Bogotá</title>
