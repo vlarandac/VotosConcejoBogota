@@ -1,8 +1,8 @@
-# VotosConsejoBogota
-Visualización que permite comparar entre candidatos, para identificar cómo fue el comportamiento de votos que obtuvieron para el consejo en los periodos 2011 y 2015
+# VotosConcejoBogota
+Visualización que permite comparar entre candidatos, para identificar cómo fue el comportamiento de votos que obtuvieron para el concejo en los periodos 2011 y 2015
 
 La tarea que se buscan conseguir por medio de esta visualizaciones es:<br/>
-○ Comparar los resultados obtenidos por un candidato frente a otros en los resultados electorales por localidad (zona) para las elecciones al Consejo de Bogotá en los periodos 2011 y 2015.<br/>
+○ Comparar los resultados obtenidos por un candidato frente a otros en los resultados electorales por localidad (zona) para las elecciones al Concejo de Bogotá en los periodos 2011 y 2015.<br/>
 
 Para lograrlo se ha elegido visualizar por medio de paralell coordinates que permite ver el comportamiento para las distintas localidades, así mismo se han implementado filtros que permiten elegir los candidatos que se quieren comparar.  Se puede hacer brush para elegir el eje 
 o la zona a verificar.
@@ -16,4 +16,4 @@ Los insights logrados a partir de las visualizaciones son:<br/><br/>
 
 Usted puede acceder para ver los distintos proyectos de la clase en el siguiente link [Proyectos Visual Analytics 2017](http://johnguerra.co/classes/visual_analytics_fall_2017/students/index.html).
 <br/>
-Usted puede acceder al [Sitio del proyecto](https://vlarandac.github.io/VotosConsejoBogota/).
+Usted puede acceder al [Sitio del proyecto](https://vlarandac.github.io/VotosConcejoBogota/).
